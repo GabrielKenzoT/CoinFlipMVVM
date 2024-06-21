@@ -1,0 +1,2 @@
+# CoinFlipMVVM
+project .net Maui
